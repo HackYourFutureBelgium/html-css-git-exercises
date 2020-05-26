@@ -24,6 +24,7 @@
 .countries--fourth {
   flex-direction: column;
   align-items: flex-end;
+  justify-content: center;
 }
 .countries--fourth .country--ethiopia {
   align-self: center;
