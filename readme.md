@@ -1,6 +1,6 @@
 # HTML, CSS and Git exercises
 
-This repository contains exercises for HYF students learning HTML, CSS and Git commands.
+This repository contains exercises for HYF students learning HTML, CSS and Git commands...
 
 ## Getting started
 
